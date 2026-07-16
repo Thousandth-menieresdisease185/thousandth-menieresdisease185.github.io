@@ -19,4 +19,4 @@ The full program committee will be listed here after author notification.
 
 ## Contact
 
-[mailing list / email — TBD]
+<ai4powergrids@gmail.com>

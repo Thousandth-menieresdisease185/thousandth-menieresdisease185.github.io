@@ -25,7 +25,7 @@ The power grid is one of the most consequential open problems in applied machine
 - **Submission portal:** [OpenReview URL — TBD]
 - **Program:** [coming soon](program.md)
 - **Organizers:** [see here](organizers.md)
-- **Contact:** [mailing list / email — TBD]
+- **Contact:** <ai4powergrids@gmail.com>
 
 ## What we are looking for
 
